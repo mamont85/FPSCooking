@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46c3eaea4ca7e52418d12971aa20c21a, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::FPSCookingPrototype.Gameplay.Items.ItemDatabase
+  _items:
+  - ItemType: 0
+    DisplayName: "\u042F\u0439\u0446\u043E"
+    HeldViewPrefab: {fileID: 8018035793018830657, guid: eaccccfcfd6a951479b0dfc7e3df9584, type: 3}
+    WorldViewPrefab: {fileID: 3144417635060056074, guid: 9b4cfd3826bb3fa49bc5959234b5ad52, type: 3}
+  - ItemType: 1
+    DisplayName: "\u042F\u0439\u0446\u043E \u0433\u043E\u0442\u043E\u0432\u043E\u0435"
+    HeldViewPrefab: {fileID: 1009940566311586484, guid: ac88331bcc80f5e4696ab428d7330c9c, type: 3}
+    WorldViewPrefab: {fileID: 2233585514648455358, guid: cb49bf313b40800448a6d355331a2827, type: 3}
+  - ItemType: 2
+    DisplayName: "\u042F\u0439\u0446\u043E \u0441\u0433\u043E\u0440\u0435\u0432\u0448\u0435\u0435"
+    HeldViewPrefab: {fileID: 8311490948901670265, guid: c2855f8bbaeb11a4ebb25ad1fa44c098, type: 3}
+    WorldViewPrefab: {fileID: 6525230545025872544, guid: fe068d58f182f0841ba6d531a17a7fb5, type: 3}
+  - ItemType: 3
+    DisplayName: "\u041F\u0443\u0441\u0442\u043E\u0439 \u0441\u0442\u0430\u043A\u0430\u043D"
+    HeldViewPrefab: {fileID: 6253853324166570376, guid: 61c5324e636113b40bc16e3f3852b5cc, type: 3}
+    WorldViewPrefab: {fileID: 4742953681213228199, guid: 795790069beafbc4080bb69f74c00751, type: 3}
+  - ItemType: 4
+    DisplayName: "\u0413\u043E\u0440\u044F\u0447\u0438\u0439 \u043A\u043E\u0444\u0435"
+    HeldViewPrefab: {fileID: 6625074624724402513, guid: 485a8c37def25f34fb88887450cd9eff, type: 3}
+    WorldViewPrefab: {fileID: 6903026256933891243, guid: 6cce31cb4df092c418d0fb0be4e7791e, type: 3}
+  - ItemType: 5
+    DisplayName: "\u041E\u0441\u0442\u044B\u0432\u0448\u0438\u0439 \u043A\u043E\u0444\u0435"
+    HeldViewPrefab: {fileID: 1982997983336705919, guid: 79e8635a12fd5f34cb2990dc86d6ad17, type: 3}
+    WorldViewPrefab: {fileID: 5679233860044798132, guid: 1df90deb0ab2c1b49b23e71b7421c9ce, type: 3}
